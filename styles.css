@@ -48,14 +48,7 @@ body {
 .hero p {
   font-size: 1rem;
 }
-.disqus {
-  background-color: #e1f4fa;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  padding-right: 2rem;
-  padding-left: 2rem;
-  border-radius: 10px;
-}
+
 
 .hero a {
   font-size: 1rem;
